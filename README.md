@@ -5,15 +5,22 @@
   
 # :book: Introduction
 
-### Data
+### What is VideoMind?
 VideoMind is a large-scale video-centric multimodal dataset that can be used to learn powerful and transferable text-video representations for video understanding tasks such as video question answering and video retrieval. 
 
+![b469e00b43d46a6b3f89899483abcf6](https://github.com/cdx-cindy/VideoMind/blob/main/image/cfdd6d79178d49e0e217ccc7ec7fa2e3.jpg)
+
+### Data statistics
 ![b469e00b43d46a6b3f89899483abcf6](https://github.com/cdx-cindy/VideoMind/blob/main/image/cfdd6d79178d49e0e217ccc7ec7fa2e3.jpg)
 
 ### Model Performance
 
 # :arrow_down: Data & Model Zoo
-\[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://opendatalab.com/Dixin/VideoMind) \]
+
+### Download
+You can download all the video annotation from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace].(https://opendatalab.com/Dixin/VideoMind) \]
+
+You can download the raw videos from \[[InternVid](https://opendatalab.com/shepshep/InternVid) \].
 
 ## Citation
 If you find this work useful for your research, please consider citing VideoMind. Your acknowledgement would greatly help us in continuing to contribute resources to the research community.
