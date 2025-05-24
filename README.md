@@ -18,9 +18,9 @@ VideoMind is a large-scale video-centric multimodal dataset that can be used to 
 # :arrow_down: Data & Model Zoo
 
 ### Download
-You can download all the video annotation from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://opendatalab.com/Dixin/VideoMind) \]
+You can download our video annotation from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://opendatalab.com/Dixin/VideoMind) \]
 
-You can download the raw videos from \[[InternVid](https://opendatalab.com/shepshep/InternVid) \].
+You can download the raw videos and original annotation from \[[InternVid](https://opendatalab.com/shepshep/InternVid) \].
 
 ## Citation
 If you find this work useful for your research, please consider citing VideoMind. Your acknowledgement would greatly help us in continuing to contribute resources to the research community. 😊
