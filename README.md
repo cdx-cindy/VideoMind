@@ -14,7 +14,16 @@ VideoMind is a large-scale video-centric multimodal dataset that can be used to 
 </p>
 
 ### Data statistics
-![b469e00b43d46a6b3f89899483abcf6](https://github.com/cdx-cindy/VideoMind/blob/main/image/cfdd6d79178d49e0e217ccc7ec7fa2e3.jpg)
+
+<p align="center">
+<img src="image/uploader_intention_tag.png" alt="uploader_intention_tag"/>
+<font size=2 color="gray">uploader intention tag</font>
+</p>
+
+<p align="center">
+<img src="image/character_intention_tag.png" alt="character_intention_tag"/>
+<font size=2 color="gray">character intention tag</font>
+</p>
 
 ### Model Performance
 
