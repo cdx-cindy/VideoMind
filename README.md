@@ -16,12 +16,12 @@ VideoMind is a large-scale video-centric multimodal dataset that can be used to 
 ### Data statistics
 
 <p align="center">
-<img src="image/uploader_intention_tag.png" alt="uploader_intention_tag"/>
+<img src="image/uploader_intention_ta.png" alt="uploader_intention_tag"/>
 <font size=2 color="gray">uploader intention tag</font>
 </p>
 
 <p align="center">
-<img src="image/character_intention_tag.png" alt="character_intention_tag"/>
+<img src="image/character_intention_ta.png" alt="character_intention_tag"/>
 <font size=2 color="gray">character intention tag</font>
 </p>
 
