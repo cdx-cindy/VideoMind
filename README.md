@@ -1,14 +1,17 @@
 # VideoMind: An Omni-Modal Video Dataset with Intent Grounding for Deep-Cognitive Video Understanding \[[Paper]()\]
 
 # :fire: News
-- We release the full version of the video annotation for VideoMind ([OpenDataLab](https://opendatalab.com/Dixin/VideoMind) | [HuggingFace]()). 
+- We release the full version of the video annotation for VideoMind ([OpenDataLab](https://opendatalab.com/Dixin/VideoMind) | [HuggingFace](https://opendatalab.com/Dixin/VideoMind)). 
   
 # :book: Introduction
 
 ### What is VideoMind?
 VideoMind is a large-scale video-centric multimodal dataset that can be used to learn powerful and transferable text-video representations for video understanding tasks such as video question answering and video retrieval. 
 
-![b469e00b43d46a6b3f89899483abcf6](https://github.com/cdx-cindy/VideoMind/blob/main/image/example.jpg)
+<p align="center">
+<img src="image/example.jpg" alt="examples for VideoMind"/>
+<font size=2 color="gray">Examples of video clips and and the corresponding factual layer, abstract layer and intentional layer in the proposed VideoMind dataset.</font>
+</p>
 
 ### Data statistics
 ![b469e00b43d46a6b3f89899483abcf6](https://github.com/cdx-cindy/VideoMind/blob/main/image/cfdd6d79178d49e0e217ccc7ec7fa2e3.jpg)
