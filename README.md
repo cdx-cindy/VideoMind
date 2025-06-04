@@ -13,11 +13,6 @@ VideoMind is a large-scale video-centric multimodal dataset that can be used to 
 <font size=4 color="gray">Examples of video clips and and the corresponding factual layer, abstract layer and intentional layer in the proposed VideoMind dataset.</font>
 </p>
 
-<p align="center">
-<img src="image/pipeline.png" alt="Pipeline for VideoMind"/>
-<font size=4 color="gray">Text generation pipeline of VideoMind.</font>
-</p>
-
 ### Data statistics
 
 <p align="center">
