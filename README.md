@@ -9,11 +9,18 @@
 VideoMind is a large-scale video-centric multimodal dataset that can be used to learn powerful and transferable text-video representations for video understanding tasks such as video question answering and video retrieval. 
 
 <p align="center">
-<img src="image/Examples1.png" alt="examples for VideoMind"/>
+<img src="image/samples.png" alt="examples for VideoMind"/>
 <font size=4 color="gray">Examples of video clips and and the corresponding factual layer, abstract layer and intentional layer in the proposed VideoMind dataset.</font>
 </p>
 
 ### Data statistics
+
+<p align="center">
+<img src="image/ASR_length.png" alt="ASR_length"/>
+<img src="image/OCR_length.png" alt="OCR_length"/>
+<br>
+<font size=2 color="gray">Video statistics in VideoMind.</font>
+</p>
 
 <p align="center">
 <img src="image/uploader_intention_tag.png" alt="uploader_intention_tag"/>
@@ -24,6 +31,8 @@ VideoMind is a large-scale video-centric multimodal dataset that can be used to 
 <img src="image/character_intention_tag.png" alt="character_intention_tag"/>
 <font size=2 color="gray">Character intention word cloud</font>
 </p>
+
+
 
 ### Model Performance
 
