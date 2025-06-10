@@ -16,9 +16,7 @@ VideoMind is a large-scale video-centric multimodal dataset that can be used to 
 ### Data statistics
 
 <p align="center">
-<img src="image/ASR_length.png" alt="ASR_length"/>
-<img src="image/OCR_length.png" alt="OCR_length"/>
-<br>
+<img src="image/Sentence_Length.jpg" alt="Sentence Length"/>
 <font size=2 color="gray">Video statistics in VideoMind.</font>
 </p>
 
@@ -39,7 +37,7 @@ VideoMind is a large-scale video-centric multimodal dataset that can be used to 
 # :arrow_down: Data & Model Zoo
 
 ### Download
-You can download our video annotation from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://opendatalab.com/Dixin/VideoMind) \]
+You can download our video annotation from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://huggingface.co/datasets/DixinChen/VideoMind) \]
 
 ## Citation
 If you find this work useful for your research, please consider citing VideoMind. Your acknowledgement would greatly help us in continuing to contribute resources to the research community. 😊
