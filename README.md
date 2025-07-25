@@ -1,7 +1,7 @@
 # VideoMind: An Omni-Modal Video Dataset with Intent Grounding for Deep-Cognitive Video Understanding \[[Paper](https://arxiv.org/abs/2507.18552)\]
 
 # :fire: News
-- We release the v1 version of the video annotation for VideoMind and a gold-standard benchmark which consists of 3000 meticulously manual-validated samples.([OpenDataLab](https://opendatalab.com/Dixin/VideoMind) | [HuggingFace](https://huggingface.co/datasets/DixinChen/VideoMind)).
+- We release the V1 version of the video annotations for VideoMind and a gold-standard benchmark which consists of 3000 meticulously manual-validated samples.([OpenDataLab](https://opendatalab.com/Dixin/VideoMind) | [HuggingFace](https://huggingface.co/datasets/DixinChen/VideoMind)).
   
 # :book: Introduction
 
