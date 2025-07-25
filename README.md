@@ -1,4 +1,4 @@
-# VideoMind: An Omni-Modal Video Dataset with Intent Grounding for Deep-Cognitive Video Understanding \[[Paper]()\]
+# VideoMind: An Omni-Modal Video Dataset with Intent Grounding for Deep-Cognitive Video Understanding \[[Paper](https://arxiv.org/abs/2507.18552)\]
 
 # :fire: News
 - We release the full version of the video annotation for VideoMind ([OpenDataLab](https://opendatalab.com/Dixin/VideoMind) | [HuggingFace](https://huggingface.co/datasets/DixinChen/VideoMind)). 
