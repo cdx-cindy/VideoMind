@@ -42,11 +42,14 @@ You can download our video annotation from \[[OpenDataLab](https://opendatalab.c
 ## Citation
 If you find this work useful for your research, please consider citing VideoMind. Your acknowledgement would greatly help us in continuing to contribute resources to the research community. 😊
 ```
-@inproceedings{,
-  title={},
-  author={},
-  booktitle={},
-  year={}
+@misc{yang2025videomindomnimodalvideodataset,
+      title={VideoMind: An Omni-Modal Video Dataset with Intent Grounding for Deep-Cognitive Video Understanding}, 
+      author={Baoyao Yang and Wanyun Li and Dixin Chen and Junxiang Chen and Wenbin Yao and Haifeng Lin},
+      year={2025},
+      eprint={2507.18552},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.18552}, 
 }
 ```
 
