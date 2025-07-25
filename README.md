@@ -16,7 +16,7 @@ VideoMind is a video-centric omni-modal dataset, which enables the deep cognitio
 ### Data statistics
 
 <p align="center">
-<img src="image/Sentence_Length.jpg" alt="Sentence Length"/>
+<img src="image/data statistics.jpg" alt="Sentence Length"/>
 <font size=2 color="gray">Video statistics in VideoMind.</font>
 </p>
 
