@@ -9,7 +9,7 @@
 VideoMind is a video-centric omni-modal dataset, which enables the deep cognition of video content and enhances feature representations of multi-modal data. The VideoMind dataset contains 103K video samples (3K for test only), each of which is accompanied by audio, as well as systematic and detailed textual descriptions. Specifically, every video sample, together with its audio data, is described across three hierarchical layers (factual, abstract, and intent), progressing from the superficial to the profound. In total, more than 22 million words are included, with an average of approximately 225 words per sample. Compared with existing video-centric datasets, the distinguishing feature of VideoMind lies in providing intent expressions that are intuitively unattainable and must be speculated through the integration of context across the entire video. The Chain-of-Thought (COT) text generation manner is introduced, wherein the mLLM is prompted to derive deep-cognitive expressions under step-by-step guidance. Upon the detailed descriptions, various annotations, including subject, place, time, event, action, and intent, are marked, serving a series of downstream recognition tasks. More crucially, we establish a gold-standard benchmark comprising 3,000 meticulously manual-validated samples for the evaluation of deep-cognitive video understanding.
 
 <p align="center">
-<img src="image/Examples-v2.jpg" alt="examples for VideoMind"/>
+<img src="image/Examples-latest version.jpg" alt="examples for VideoMind"/>
 <font size=4 color="gray">Examples of video clips and the corresponding factual layer, abstract layer and intent layer in the proposed VideoMind dataset.</font>
 </p>
 
