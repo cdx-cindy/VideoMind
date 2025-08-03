@@ -37,7 +37,9 @@ VideoMind is a video-centric omni-modal dataset, which enables the deep cognitio
 # :arrow_down: Data & Model Zoo
 
 ### Download
-You can download our video annotation from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://huggingface.co/datasets/DixinChen/VideoMind) \] and download the videos of benchmark from [this link](https://drive.google.com/file/d/1RbEjY1_glJ8yEwn1f5SXGs5kCn6uAqvY/view?usp=drive_link).
+1. You can download our video annotations from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://huggingface.co/datasets/DixinChen/VideoMind) \]
+   or from [Google drive](https://drive.google.com/drive/folders/1T_9A3GU4DwB-oWrj3DePcP3EYCTuausP?usp=sharing)
+2. You can download the videos of our benchmark from [this link](https://drive.google.com/file/d/1RbEjY1_glJ8yEwn1f5SXGs5kCn6uAqvY/view?usp=drive_link).
 
 ## Citation
 If you find this work useful for your research, please consider citing VideoMind. Your acknowledgement would greatly help us in continuing to contribute resources to the research community. 😊
