@@ -26,9 +26,12 @@ VideoMind is a video-centric omni-modal dataset, which enables the deep cognitio
 </p>
 
 
-### Model Performance
+### Model
 Based on the proposed VideoMind, we design a baseline model, Deep Multi-modal Embedder (**DeME**), which fully leverages hierarchically expressed texts.
-
+<p align="center">
+<img src="image/DeME.jpg" alt="multi-model"/>
+<font size=2 color="gray">Framework of the DeME to extract general embeddings for omni-modal data.</font>
+</p>
 
 ### Download
 1. You can download our video annotations from \[[OpenDataLab](https://opendatalab.com/Dixin/VideoMind) \| [HuggingFace](https://huggingface.co/datasets/DixinChen/VideoMind) \]
