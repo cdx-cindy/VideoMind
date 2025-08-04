@@ -21,13 +21,8 @@ VideoMind is a video-centric omni-modal dataset, which enables the deep cognitio
 </p>
 
 <p align="center">
-<img src="image/uploader_intention_tag.png" alt="uploader_intention_tag"/>
-<font size=2 color="gray">Uploader intention word cloud</font>
-</p>
-
-<p align="center">
-<img src="image/character_intention_tag.png" alt="character_intention_tag"/>
-<font size=2 color="gray">Character intention word cloud</font>
+<img src="image/word cloud.jpg" alt="Word Cloud"/>
+<font size=2 color="gray">The word cloud of intent, audio style, subject, and place in the VideoMind dataset.</font>
 </p>
 
 
