@@ -28,8 +28,11 @@ VideoMind is a video-centric omni-modal dataset, which enables the deep cognitio
 
 ### Model
 Based on the proposed VideoMind, we design a baseline model, Deep Multi-modal Embedder (**DeME**), which fully leverages hierarchically expressed texts.
+
 <p align="center">
 <img src="image/DeME.jpg" alt="multi-model"/>
+</p>
+<p align="center">
 <font size=2 color="gray">Framework of the DeME to extract general embeddings for omni-modal data.</font>
 </p>
 
